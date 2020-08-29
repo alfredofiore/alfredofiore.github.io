@@ -490,8 +490,8 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Alfredo Fiore\Desktop\E-commerce in Angular\MyCommerce\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! E:\Alfredo Fiore\Desktop\E-commerce in Angular\MyCommerce\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! /Volumes/MAC_esterno/ANGULAR/mycommerce/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! /Volumes/MAC_esterno/ANGULAR/mycommerce/src/styles.css */"./src/styles.css");
 
 
 /***/ })

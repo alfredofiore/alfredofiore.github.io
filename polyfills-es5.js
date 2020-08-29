@@ -19139,7 +19139,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! E:\Alfredo Fiore\Desktop\E-commerce in Angular\MyCommerce\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
+    /*! /Volumes/MAC_esterno/ANGULAR/mycommerce/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
     "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js");
 
     __webpack_require__(
@@ -19147,7 +19147,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "./node_modules/zone.js/dist/zone-legacy.js");
 
     module.exports = __webpack_require__(
-    /*! E:\Alfredo Fiore\Desktop\E-commerce in Angular\MyCommerce\src\polyfills.ts */
+    /*! /Volumes/MAC_esterno/ANGULAR/mycommerce/src/polyfills.ts */
     "./src/polyfills.ts");
     /***/
   }
