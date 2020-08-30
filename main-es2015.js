@@ -454,7 +454,7 @@ class FooterComponent {
     }
 }
 FooterComponent.ɵfac = function FooterComponent_Factory(t) { return new (t || FooterComponent)(); };
-FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 76, vars: 0, consts: [[1, "page-footer"], [1, "container-fluid", "text-center", "text-md-left"], [1, "row"], [1, "col-md-4", "mx-auto"], [1, "font-weight-bold", "text-uppercase", "mt-3", "mb-4"], [1, "clearfix", "w-100", "d-md-none"], [1, "col-md-2", "mx-auto"], [1, "list-unstyled"], ["href", "#!"], [2, "text-align", "center"], [1, "list-unstyled", "list-inline", "text-center"], [1, "list-inline-item"], [1, "btn-floating", "btn-fb", "mx-1"], [1, "fa", "fa-facebook-f"], [1, "btn-floating", "btn-tw", "mx-1"], [1, "fa", "fa-twitter"], [1, "btn-floating", "btn-gplus", "mx-1"], [1, "fa", "fa-instagram"], [1, "btn-floating", "btn-li", "mx-1"], [1, "fa", "fa-linkedin"], [1, "footer-copyright", "text-center", "py-3"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
+FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 79, vars: 0, consts: [[1, "page-footer"], [1, "container-fluid", "text-center", "text-md-left"], [1, "row"], [1, "col-md-4", "mx-auto"], [1, "font-weight-bold", "text-uppercase", "mt-3", "mb-4"], [1, "clearfix", "w-100", "d-md-none"], [1, "col-md-2", "mx-auto"], [1, "list-unstyled"], ["href", "#!"], [2, "text-align", "center"], [1, "list-unstyled", "list-inline", "text-center"], [1, "list-inline-item"], [1, "btn-floating", "btn-fb", "mx-1"], [1, "fa", "fa-facebook-f"], [1, "btn-floating", "btn-gplus", "mx-1"], [1, "fa", "fa-instagram"], [1, "fa", "fa-telegram"], [1, "btn-floating", "btn-tw", "mx-1"], [1, "fa", "fa-twitter"], [1, "btn-floating", "btn-li", "mx-1"], [1, "fa", "fa-linkedin"], [1, "footer-copyright", "text-center", "py-3"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -564,20 +564,25 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "li", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "a", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "i", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "a", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "i", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "li", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "i", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "i", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "li", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "a", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "i", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](73, "\u00A9 2020 Copyright: ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, " Alfredo Fiore");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, "\u00A9 2020 Copyright: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "a");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, " Alfredo Fiore");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
