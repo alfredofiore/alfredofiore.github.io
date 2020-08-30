@@ -3248,7 +3248,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Volumes/MAC_esterno/ANGULAR/mycommerce/src/polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! E:\Alfredo Fiore\Desktop\E-commerce in Angular\MyCommerce\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
