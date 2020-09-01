@@ -422,7 +422,11 @@ CarrelloComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](24);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.prodotti);
+<<<<<<< HEAD
+    } }, directives: [_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_1__["NavbarComponent"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_3__["FooterComponent"]], styles: [".titolo_carrello[_ngcontent-%COMP%]{\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    font: bold;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY2FycmVsbG8vY2FycmVsbG8uY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGlEQUFpRDtJQUNqRCxVQUFVO0FBQ2QiLCJmaWxlIjoic3JjL2FwcC9jYXJyZWxsby9jYXJyZWxsby5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnRpdG9sb19jYXJyZWxsb3tcbiAgICBmb250LWZhbWlseTogXCJDb21pYyBTYW5zIE1TXCIsIGN1cnNpdmUsIHNhbnMtc2VyaWY7XG4gICAgZm9udDogYm9sZDtcbn0iXX0= */"] });
+=======
     } }, directives: [_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_1__["NavbarComponent"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_3__["FooterComponent"]], styles: [".titolo_carrello[_ngcontent-%COMP%]{\r\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\r\n    font: bold;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY2FycmVsbG8vY2FycmVsbG8uY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGlEQUFpRDtJQUNqRCxVQUFVO0FBQ2QiLCJmaWxlIjoic3JjL2FwcC9jYXJyZWxsby9jYXJyZWxsby5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnRpdG9sb19jYXJyZWxsb3tcclxuICAgIGZvbnQtZmFtaWx5OiBcIkNvbWljIFNhbnMgTVNcIiwgY3Vyc2l2ZSwgc2Fucy1zZXJpZjtcclxuICAgIGZvbnQ6IGJvbGQ7XHJcbn0iXX0= */"] });
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](CarrelloComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -615,13 +619,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @ng-bootstrap/ng-bootstrap */ "./node_modules/@ng-bootstrap/ng-bootstrap/__ivy_ngcc__/fesm2015/ng-bootstrap.js");
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 /* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../footer/footer.component */ "./src/app/footer/footer.component.ts");
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
 function DettaglioProdottoComponent_a_42_Template(rf, ctx) { if (rf & 1) {
     const _r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "a", 22);
@@ -651,7 +664,15 @@ class DettaglioProdottoComponent {
     }
 }
 DettaglioProdottoComponent.ɵfac = function DettaglioProdottoComponent_Factory(t) { return new (t || DettaglioProdottoComponent)(); };
+<<<<<<< HEAD
 DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DettaglioProdottoComponent, selectors: [["app-dettaglio-prodotto"]], decls: 76, vars: 5, consts: [[2, "background-color", "whitesmoke"], [1, "container-fluid"], [1, "row"], [1, "col-md-3", "offset-1"], [1, "card"], ["src", "/assets/prodotti/melanzane_olio.jpg", 1, "img_prodotto"], [1, "col-md-5"], [1, "col-md-7", "offset-1"], [1, "titolo_prod"], [1, "col-md-10", "offset-1"], [1, "desc_prod"], [1, "col-md-2"], [1, "card", 2, "width", "18rem"], [1, "card-body"], [1, "btn-group", "mr-3"], ["type", "text", 1, "btn", "btn-outline-secondary", 2, "cursor", "text", 3, "ngModel", "ngModelChange"], ["ngbDropdown", "", "role", "group", "aria-label", "Button group with nested dropdown", 1, "btn-group"], ["ngbDropdownToggle", "", 1, "btn", "btn-outline-secondary", "dropdown-toggle-split"], ["ngbDropdownMenu", "", 1, "dropdown-menu"], ["class", "dropdown-item", 3, "click", 4, "ngFor", "ngForOf"], [1, "card-text"], ["type", "button", 1, "btn", "btn-outline-primary"], [1, "dropdown-item", 3, "click"]], template: function DettaglioProdottoComponent_Template(rf, ctx) { if (rf & 1) {
+=======
+<<<<<<< HEAD
+DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DettaglioProdottoComponent, selectors: [["app-dettaglio-prodotto"]], decls: 76, vars: 5, consts: [[2, "background-color", "whitesmoke"], [1, "container-fluid"], [1, "row"], [1, "col-md-3", "offset-1"], [1, "card"], ["src", "/assets/prodotti/melanzane_olio.jpg", 1, "img_prodotto"], [1, "col-md-5"], [1, "col-md-7", "offset-1"], [1, "titolo_prod"], [1, "col-md-10", "offset-1"], [1, "desc_prod"], [1, "col-md-2"], [1, "card", 2, "width", "18rem"], [1, "card-body"], [1, "btn-group", "mr-3"], ["type", "text", 1, "btn", "btn-outline-secondary", 2, "cursor", "text", 3, "ngModel", "ngModelChange"], ["ngbDropdown", "", "role", "group", "aria-label", "Button group with nested dropdown", 1, "btn-group"], ["ngbDropdownToggle", "", 1, "btn", "btn-outline-secondary", "dropdown-toggle-split"], ["ngbDropdownMenu", "", 1, "dropdown-menu"], ["class", "dropdown-item", 3, "click", 4, "ngFor", "ngForOf"], [1, "card-text"], ["type", "button", 1, "btn", "btn-outline-primary"], [1, "dropdown-item", 3, "click"]], template: function DettaglioProdottoComponent_Template(rf, ctx) { if (rf & 1) {
+=======
+DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: DettaglioProdottoComponent, selectors: [["app-dettaglio-prodotto"]], decls: 76, vars: 5, consts: [[2, "background-color", "whitesmoke"], [1, "container-fluid"], [1, "row"], [1, "col-md-3", "offset-1"], [1, "card"], ["src", "/assets/prodotti/melanzane_olio.jpg", 1, "img_prodotto"], [1, "col-md-5"], [1, "col-md-7", "offset-1"], [1, "titolo_prod"], [1, "col-md-10", "offset-1"], [1, "desc_prod"], [1, "col-md-2"], [1, "card", 2, "width", "18rem"], [1, "card-body"], [1, "btn-group", "mr-3"], ["type", "text", 1, "btn", "btn-outline-secondary", 3, "ngModel", "ngModelChange"], ["ngbDropdown", "", "role", "group", "aria-label", "Button group with nested dropdown", 1, "btn-group"], ["ngbDropdownToggle", "", 1, "btn", "btn-outline-secondary", "dropdown-toggle-split"], ["ngbDropdownMenu", "", 1, "dropdown-menu"], ["class", "dropdown-item", 3, "click", 4, "ngFor", "ngForOf"], [1, "card-text"], ["type", "button", 1, "btn", "btn-outline-primary"], [1, "dropdown-item", 3, "click"]], template: function DettaglioProdottoComponent_Template(rf, ctx) { if (rf & 1) {
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
+>>>>>>> 9404bbaca9f580c4f35125e7b0b4b77a2fb11de5
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-navbar");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "body", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "br");
@@ -683,8 +704,20 @@ DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "h3", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25);
+<<<<<<< HEAD
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+=======
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "h5", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31);
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "br");
@@ -695,7 +728,18 @@ DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+<<<<<<< HEAD
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "h6");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "Quantit\u00E0:");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "input", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function DettaglioProdottoComponent_Template_input_ngModelChange_38_listener($event) { return ctx.prodottoSel.quantita = $event; });
+=======
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 12);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 13);
@@ -710,9 +754,20 @@ DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "button", 17);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](42, DettaglioProdottoComponent_a_42_Template, 2, 1, "a", 19);
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "button", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](42, DettaglioProdottoComponent_a_42_Template, 2, 1, "a", 19);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "h6");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Costi di spedizione:");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+<<<<<<< HEAD
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "h6");
@@ -721,6 +776,11 @@ DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "p", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "10,0 \u20AC");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+=======
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "p", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "10,0 \u20AC");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "button", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "Aggiungi al carrello");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -766,7 +826,11 @@ DettaglioProdottoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngModel", ctx.prodottoSel.quantita);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.counter(20));
+<<<<<<< HEAD
+    } }, directives: [_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_1__["NavbarComponent"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgModel"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdown"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdownToggle"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdownMenu"], _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgForOf"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_5__["FooterComponent"]], styles: [".img_prodotto[_ngcontent-%COMP%] {\n    height: 100%;\n    width: 100%;\n}\n\n.titolo_prod[_ngcontent-%COMP%], .desc_prod[_ngcontent-%COMP%]{\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\n    font: bold;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvZ2VzdGlvbmUgcHJvZG90dGkvZGV0dGFnbGlvLXByb2RvdHRvL2RldHRhZ2xpby1wcm9kb3R0by5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBRUE7SUFDSSxZQUFZO0lBQ1osV0FBVztBQUNmOztBQUVBO0lBQ0ksaURBQWlEO0lBQ2pELFVBQVU7QUFDZDs7QUFFQTs7O0dBR0ciLCJmaWxlIjoic3JjL2FwcC9nZXN0aW9uZSBwcm9kb3R0aS9kZXR0YWdsaW8tcHJvZG90dG8vZGV0dGFnbGlvLXByb2RvdHRvLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcblxuLmltZ19wcm9kb3R0byB7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAxMDAlO1xufVxuXG4udGl0b2xvX3Byb2QsIC5kZXNjX3Byb2R7XG4gICAgZm9udC1mYW1pbHk6IFwiQ29taWMgU2FucyBNU1wiLCBjdXJzaXZlLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQ6IGJvbGQ7XG59XG5cbi8qIC5xdWFfcm93IHtcbiAgICAvKiB0ZXh0LWFsaWduOiBjZW50ZXI7IFxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59ICovXG5cbiJdfQ== */"] });
+=======
     } }, directives: [_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_1__["NavbarComponent"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgModel"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdown"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdownToggle"], _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__["NgbDropdownMenu"], _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgForOf"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_5__["FooterComponent"]], styles: [".img_prodotto[_ngcontent-%COMP%] {\r\n    height: 100%;\r\n    width: 100%;\r\n}\r\n\r\n.titolo_prod[_ngcontent-%COMP%], .desc_prod[_ngcontent-%COMP%]{\r\n    font-family: \"Comic Sans MS\", cursive, sans-serif;\r\n    font: bold;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvZ2VzdGlvbmUgcHJvZG90dGkvZGV0dGFnbGlvLXByb2RvdHRvL2RldHRhZ2xpby1wcm9kb3R0by5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBRUE7SUFDSSxZQUFZO0lBQ1osV0FBVztBQUNmOztBQUVBO0lBQ0ksaURBQWlEO0lBQ2pELFVBQVU7QUFDZDs7QUFFQTs7O0dBR0ciLCJmaWxlIjoic3JjL2FwcC9nZXN0aW9uZSBwcm9kb3R0aS9kZXR0YWdsaW8tcHJvZG90dG8vZGV0dGFnbGlvLXByb2RvdHRvLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuXHJcbi5pbWdfcHJvZG90dG8ge1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbn1cclxuXHJcbi50aXRvbG9fcHJvZCwgLmRlc2NfcHJvZHtcclxuICAgIGZvbnQtZmFtaWx5OiBcIkNvbWljIFNhbnMgTVNcIiwgY3Vyc2l2ZSwgc2Fucy1zZXJpZjtcclxuICAgIGZvbnQ6IGJvbGQ7XHJcbn1cclxuXHJcbi8qIC5xdWFfcm93IHtcclxuICAgIC8qIHRleHQtYWxpZ246IGNlbnRlcjsgXHJcbiAgICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG59ICovXHJcblxyXG4iXX0= */"] });
+>>>>>>> 974c8bc321c71ecbd7af25f86490b62f57c77e42
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](DettaglioProdottoComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
