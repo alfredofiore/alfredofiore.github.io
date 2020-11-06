@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1 ,
+        "nome": "Vasetto di n-duja",
+        "descrizione": "testo descrizione",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 2 ,
+        "nome": "Vasetto di olive",
+        "descrizione": "test descrizione testo descrizione olive",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 3 ,
+        "immagine": "vasetto_olive.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 3 ,
+        "nome": "Vasetto di n-duja",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 4 ,
+        "nome": "Vasetto di melanzane",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 5 ,
+        "nome": "Vasetto di melanzane sott-olio",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 6 ,
+        "nome": "n-duja",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 7 ,
+        "nome": "Melanzane",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 8 ,
+        "nome": "Vasetto di olive",
+        "descrizione": "test descrizione testo descrizione olive",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 3 ,
+        "immagine": "vasetto_olive.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 9 ,
+        "nome": "Vasetto di n-duja",
+        "descrizione": "testo descrizione",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 10 ,
+        "nome": "Vasetto di olive",
+        "descrizione": "test descrizione testo descrizione olive",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 3 ,
+        "immagine": "vasetto_olive.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 11 ,
+        "nome": "Vasetto di n-duja",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 12 ,
+        "nome": "Vasetto di melanzane",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 13 ,
+        "nome": "Vasetto di melanzane sott-olio",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 14 ,
+        "nome": "n-duja",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 1 ,
+        "immagine": "vasetto_nduja.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 15 ,
+        "nome": "Melanzane",
+        "descrizione": "test descrizione testo",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 2 ,
+        "immagine": "melanzane_olio.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    },{
+        "id": 16 ,
+        "nome": "Vasetto di olive",
+        "descrizione": "test descrizione testo descrizione olive",
+        "prezzo": 22.5 ,
+        "quantita": 10 ,
+        "tipologia": 3 ,
+        "immagine": "vasetto_olive.jpg",
+        "codiceEAN": 123456789 ,
+        "version": 0
+    }
+]
